@@ -1,7 +1,7 @@
 # The AppData class contains all literal values for the program, including the search keyword.
 
 class AppData():
-    # Face++ ap data
+    # Face++ api data
     faceapikey = ''
     faceapisecret = ''
     # Twitter api data
